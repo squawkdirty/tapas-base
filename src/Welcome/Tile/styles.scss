@@ -1,0 +1,41 @@
+@import "~@blueprintjs/core/lib/scss/variables";
+
+div.tapas-tile-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: $light-gray4;
+    transform: scale(1);
+    transition: transform 0.6s, color 0.6s;
+}
+
+
+div.tapas-tile-wrap:hover {
+    color: $dark-gray3;
+    transform: scale(1.15);
+    transition: transform 0.6s, color 1.2s;
+    cursor: pointer;
+}
+
+div.tapas-tile-wrap.draw:hover {
+    color: $violet2;
+}
+
+div.tapas-tile-wrap.modify:hover {
+    color: $vermilion2;
+}
+
+div.tapas-tile-wrap.assess:hover {
+    color: $sepia2;
+}
+
+div.tapas-tile-wrap.study:hover {
+    color: $turquoise2;
+}
+
+text.tapas-tile-text {
+    font-family: 'Jaapokki', sans-serif;
+    font-size: x-large;
+    margin-top: 0.5em;
+}

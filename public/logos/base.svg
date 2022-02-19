@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="169.6749mm"
+   height="51.425335mm"
+   viewBox="0 0 169.6749 51.425335"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="base.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.8117387"
+     inkscape:cx="25.254432"
+     inkscape:cy="271.02318"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g68583-6-7"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-18.321145,-9.8152062)">
+    
+
+
+    <g
+       id="g68583-6-7"
+       inkscape:label="TAPAS main"
+       transform="matrix(1.7392504,0,0,1.7392504,33.39102,-66.409841)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="20.390747"
+         y="68.016106"
+         id="text39906-2-6"><tspan
+           sodipodi:role="line"
+           id="tspan39904-2-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:Jaapokki;-inkscape-font-specification:Jaapokki;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="20.390747"
+           y="68.016106">TAPAS</tspan></text>
+      <g
+         id="g962"
+         inkscape:label="Logo">
+        <path
+           style="display:inline;fill:#2962cc;fill-opacity:1;stroke:none;stroke-width:0.186546px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M -3.8143861,54.925861 11.389107,48.116936 15.58639,70.688992 Z"
+           id="path167775"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="display:inline;fill:#6892e1;fill-opacity:1;stroke:none;stroke-width:0.186546px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M -8.6645803,73.393908 15.58639,70.688992 2.9012677,45.878384"
+           id="path167777"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="display:inline;fill:#16346c;fill-opacity:1;stroke:none;stroke-width:0.18684;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M -8.6645803,73.393908 -5.6798454,43.826379 17.265304,61.268423 Z"
+           id="path167773"
+           sodipodi:nodetypes="cccc" />
+      </g>
+    </g>
+    
+    
+    
+    
+  </g>
+</svg>

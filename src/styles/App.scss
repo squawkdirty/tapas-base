@@ -1,0 +1,88 @@
+@import "~@blueprintjs/core/lib/scss/variables";
+
+//TAPAS Base
+
+$blue1: $cobalt1;
+$blue2: $cobalt2;
+$blue3: $cobalt3;
+$blue4: $cobalt4;
+$blue5: $cobalt5;
+
+
+/*
+
+//TAPAS Modify
+
+$blue1: $vermilion1;
+$blue2: $vermilion2;
+$blue3: $vermilion3;
+$blue4: $vermilion4;
+$blue5: $vermilion5;
+
+
+//TAPAS Study
+
+$blue1: $turquoise1;
+$blue2: $turquoise2;
+$blue3: $turquoise3;
+$blue4: $turquoise4;
+$blue5: $turquoise5;
+
+
+//TAPAS Base
+
+$blue1: $cobalt1;
+$blue2: $cobalt2;
+$blue3: $cobalt3;
+$blue4: $cobalt4;
+$blue5: $cobalt5;
+
+
+//TAPAS Assess
+
+$blue1: $sepia1;
+$blue2: $sepia2;
+$blue3: $sepia3;
+$blue4: $sepia4;
+$blue5: $sepia5;
+
+
+//TAPAS Draw
+
+$blue1: $violet1;
+$blue2: $violet2;
+$blue3: $violet3;
+$blue4: $violet4;
+$blue5: $violet5;
+
+*/
+
+
+
+$dark-gray1: #182022;
+$dark-gray2: #242628;
+$dark-gray3: #2A2F36;
+$dark-gray4: #30363B;
+$dark-gray5: #393E47;
+
+$gray1: #5C6268;
+$gray2: #73787C;
+$gray3: #8A9096;
+$gray4: #A7ABB2;
+$gray5: #BFC5CA;
+
+$light-gray1: #CED4D9;
+$light-gray2: #D8DCE3;
+$light-gray3: #E1E6EA;
+$light-gray4: #EBF0F5;
+$light-gray5: #F4F8FB;
+
+
+
+
+
+$pt-intent-primary: $blue2;
+
+
+
+@import "~@blueprintjs/core/src/blueprint.scss";
